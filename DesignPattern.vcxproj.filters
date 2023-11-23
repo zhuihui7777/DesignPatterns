@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DesignPattern.cpp">
+    <ClCompile Include="StrategyPattern.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
