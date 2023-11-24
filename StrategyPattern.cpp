@@ -37,7 +37,7 @@ public:
 		quarkBehavior = new QuarkCat();
 	}
 };
-
+#if 0
 int main() {
 	Cat* cat = new WuYue();
 	cat->quark();
@@ -45,3 +45,4 @@ int main() {
 	cat->quark();
 	return 0;
 }
+#endif
