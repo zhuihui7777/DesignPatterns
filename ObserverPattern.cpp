@@ -67,7 +67,7 @@ public:
 		std::cout << "Current temperature is " << weatherData->getTemperature() << std::endl;
 	}
 };
-#if 1
+#if 0
 int main() {
 	WeatherData* weatherData = new WeatherData();
 	CurrentConditionsDisplay* currentConditionsDisplay = new CurrentConditionsDisplay(weatherData);

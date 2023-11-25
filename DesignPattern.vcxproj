@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DecoratorPattern.cpp" />
     <ClCompile Include="ObserverPattern.cpp" />
     <ClCompile Include="StrategyPattern.cpp" />
   </ItemGroup>
