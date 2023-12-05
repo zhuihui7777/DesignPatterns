@@ -30,5 +30,8 @@
     <ClCompile Include="FactoryPattern.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="VirtualFactoryPattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

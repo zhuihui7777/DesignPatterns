@@ -35,7 +35,7 @@ Product* create() {
 }
 };
 
-#if 1
+#if 0
 int main() {
 	Factory* p = new FactoryB();
 	Factory* t = new FactoryA();

@@ -132,6 +132,7 @@
     <ClCompile Include="FactoryPattern.cpp" />
     <ClCompile Include="ObserverPattern.cpp" />
     <ClCompile Include="StrategyPattern.cpp" />
+    <ClCompile Include="VirtualFactoryPattern.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
