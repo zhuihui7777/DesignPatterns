@@ -71,7 +71,7 @@ public:
 		return beverage->cost() + 0.2;
 	}
 };
-#if 1
+#if 0
 int main() {
 	Beverage* beverage = new DarkRoast();
 	beverage = new Milk(beverage);
@@ -83,4 +83,3 @@ int main() {
 	return 0;
 }
 #endif
-

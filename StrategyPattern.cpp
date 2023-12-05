@@ -4,6 +4,7 @@
 		
 #include <iostream>
 using namespace std;
+
 class Quark {
 public:
 	virtual void quark() = 0;
@@ -37,12 +38,12 @@ public:
 		quarkBehavior = new QuarkCat();
 	}
 };
-#if 0
+#if 0		
 int main() {
 	Cat* cat = new WuYue();
 	cat->quark();
 	cat->set(new QuarkDog());
-	cat->quark();
+	cat->quark();		
 	return 0;
 }
 #endif

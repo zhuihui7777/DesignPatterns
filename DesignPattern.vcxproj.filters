@@ -24,5 +24,11 @@
     <ClCompile Include="DecoratorPattern.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="EasyFactoryPattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryPattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
