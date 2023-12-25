@@ -74,7 +74,7 @@ public:
         return new ConcreteProductB2();
     }
 };
-#if 1
+#if 0
 int main() {
     // 使用具体工厂1创建产品
     AbstractFactory* factory1 = new ConcreteFactory1();
